@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Collapsing Toolbar Demo</string>
 
     <string name="main_title">Material Design Demo</string>
     <string name="title_activity_collapsing_toolbar">CollapsingToolbarActivity</string>

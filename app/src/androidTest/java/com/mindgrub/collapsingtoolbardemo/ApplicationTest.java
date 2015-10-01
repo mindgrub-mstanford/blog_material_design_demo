@@ -1,4 +1,4 @@
-package com.mindgrub.myapplication;
+package com.mindgrub.collapsingtoolbardemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

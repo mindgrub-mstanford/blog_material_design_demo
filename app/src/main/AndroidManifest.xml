@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".CollapsingToolbarActivity"
+            android:name="com.mindgrub.collapsingtoolbardemo.CollapsingToolbarActivity"
             android:theme="@style/AppTheme.CustomToolbar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

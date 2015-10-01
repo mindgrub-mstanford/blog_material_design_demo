@@ -1,4 +1,4 @@
-package com.mindgrub.myapplication;
+package com.mindgrub.collapsingtoolbardemo;
 
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.mindgrub.myapplication.R;
 
 public class CollapsingToolbarActivity extends AppCompatActivity
 {
